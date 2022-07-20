@@ -216,6 +216,13 @@
       },
       "url": "https://packages.unity.com"
     },
+    "jp.juhakurisu.jvector": {
+      "version": "https://github.com/KurisuJuha/JVector.git?path=/Assets/JVector",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "b3d0956642e64269c6b592f7f9143d0a5c390a9a"
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,

@@ -1,0 +1,12 @@
+{
+    "name": "jp.juhakurisu.jtransform",
+    "version": "0.0.0",
+    "displayName": "JTransform",
+    "description": "Double精度のTransformです。",
+    "unity": "2021.3",
+    "unityRelease": "1f1",
+  
+    "author": {
+      "name": "JuhaKurisu"
+    }
+}

@@ -2,17 +2,20 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class JTransform : MonoBehaviour
+namespace JuhaKurisu.JTransform
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-
-    }
-
-    // Update is called once per frame
-    void Update()
+    public class JTransform : MonoBehaviour
     {
         
+        void Start()
+        {
+
+        }
+
+        void Update()
+        {
+
+        }
     }
+
 }
